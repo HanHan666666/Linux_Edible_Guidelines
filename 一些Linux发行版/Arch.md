@@ -17,6 +17,7 @@ Arch Linux 是一个[社区主导](../%E4%B8%80%E4%BA%9B%E6%A6%82%E5%BF%B5/%E7%A
 - 友好详细的[Arch Wiki](https://wiki.archlinux.org/title/Main_page_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87))
 - [滚动式发行](../%E4%B8%80%E4%BA%9B%E6%A6%82%E5%BF%B5/%E6%BB%9A%E5%8A%A8%E5%BC%8F%E5%8F%91%E8%A1%8C.md)
 - 自定义程度非常高
+- 有[AUR](https://aur.archlinux.org/)软件仓库，允许用户自传软件安装脚本
 
 ## 不足
 
@@ -29,7 +30,11 @@ Arch Linux 是一个[社区主导](../%E4%B8%80%E4%BA%9B%E6%A6%82%E5%BF%B5/%E7%A
 ## 适用人群
 
 - 已经体验过其他Linux发行版，对Linux有兴趣并想了解Linux各组件
-- 愿意查询Wiki文档的极客Geek
+- 愿意查询文档自己解决问题的极客Geek
 - 想追随最新的Linux技术潮流
 
 ## 不适用人群
+
+- 不接受繁琐的配置
+- 追求稳定
+- 希望开箱即用的体验
