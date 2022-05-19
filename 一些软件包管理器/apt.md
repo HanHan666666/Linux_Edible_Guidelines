@@ -4,9 +4,13 @@
 
 > 常用的软件包后缀 **\*.deb**
 
-一些常用的命令：
+一些常用的命令：  
+（以下用"*"来指代软件包的名称）
+
+- apt install * 安装一个软件
+- apt remove * 卸载一个软件
+
+---
 
 - apt update
 - apt upgrade
-- apt install
-- apt remove
